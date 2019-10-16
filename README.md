@@ -1,4 +1,4 @@
 # My Presentations
 
-ArangoDB - For COMP 630: Issues in Database Management
+ArangoDB - Research Presentation For COMP 630: Issues in Database Management
 
